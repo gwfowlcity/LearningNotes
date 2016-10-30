@@ -282,3 +282,5 @@ Java对引用的分类有 Strong reference, SoftReference, WeakReference, Phatom
   正确关闭资源，对于使用了BraodcastReceiver，ContentObserver，File，游标 Cursor，Stream，Bitmap等资源的使用，应该在Activity销毁时及时关闭或者注销。
 
   保持对对象生命周期的敏感，特别注意单例、静态对象、全局性集合等的生命周期。
+
+  完
